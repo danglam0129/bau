@@ -1,0 +1,193 @@
+/* Tablet  */
+@media (min-width: 576px) {
+    .news-iteam{
+        height: 180px;
+        font-size: 15px;
+    }
+    .news-image{
+        height: 160px;
+    }
+
+    .movies-iteam{
+        width: 126px;
+    }
+
+    .movies-iteam img{
+        height: 173px;
+        width: 126px;
+    }
+
+    .news-list{
+        max-height: 700px;
+    }
+
+    .movies-name a{
+        font-size: 17px;
+    }
+
+    .footer-logo{
+        display: flex;
+        justify-content: center;
+    }
+
+    footer{
+        padding-left: 50px;
+    }
+
+    .stars img{
+        width: 126px;
+        height: 173px;
+    }
+
+    .star-name{
+        font-size: 17px;
+    }
+
+    footer li a{
+
+        font-size: 18px;
+    }
+
+    .news-description{
+        max-height: 70px;
+    }
+
+    .h3home{
+        font-size: 22px;
+    }
+
+    .h5title{
+        font-size: 15px;
+      }
+
+    
+}
+
+/* End Tablet */
+
+/* PC  */
+@media (min-width: 992px) {
+    .logoheight{
+        max-height: 80px;
+    }
+
+    header{
+        font-size: 20px;
+    }
+
+    .h-85{
+        height: 80%;
+    }
+
+    .news-iteam{
+        height: 180px;
+        font-size: 16px;
+    }
+
+    .news-image{
+        height: 160px;
+    }
+
+    .movies-iteam{
+        width: 167px;
+    }
+
+    .movies-iteam img{
+        height: 230px;
+        width: 167px;
+    }
+
+    .news-list{
+        max-height: 800px;
+    }
+
+    .movies-name a{
+        font-size: 20px;
+    }
+
+    .footer-logo{
+        display: flex;
+        justify-content: end;
+    }
+
+    footer{
+        padding-left: 50px;
+    }
+
+    .stars img{
+        width: 145px;
+        height: 200px;
+    }
+
+    .star-name{
+        font-size: 18px;
+    }
+
+    
+    .option{
+     width: 25%;   
+    }
+
+    footer li a{
+
+        font-size: 20px;
+    }
+    
+    .detail-bg{
+        background-size: 100%;
+    }
+
+    .sidebar-news-img a img{
+    height: 186px;
+    }
+
+    .detail-star-item{
+        width: 145px;
+    }
+    
+    .detail-star-item a img{
+        height: 200px;
+        width: 145px;
+    }
+
+    .news-description{
+        max-height: 90px;
+    }
+
+    .h4title{
+        font-size: 20px;
+    }
+
+    .h5title{
+        font-size: 18px;
+      }
+
+    .h3home{
+        font-size: 26px;
+    }
+
+    .paginate ul li {
+        padding: 0 1rem;
+        float: left;
+        font-size: 17px;
+      }
+
+      .paginate ul {
+        float: right;
+      }
+    
+      .season-img{
+        height: 160px;
+        width: 115px;
+      }
+
+      .season-list{
+        height: 200px;
+      }
+
+      .season-item{
+        height: 200px;
+      }
+}
+
+/* End Pc */
